@@ -1,0 +1,1 @@
+Subjects.map(Subjects =>(<option key={Subjects}>{Subjects}</option>))}
